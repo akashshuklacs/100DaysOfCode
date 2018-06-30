@@ -6,4 +6,5 @@ For more details: Head over to http://www.100daysofcode.com/
 |----------|--------------------|-------------------------------------------------------|----------------------|
 | Day001 <br> 27/06/2018  | Data Science(Analytics Vidya) | Learnt Python and Statistics for Data Science | https://github.com/akashshuklacs/IntroductionToDataScience-AnalyticsVidya |
 | Day001 <br> 28/06/2018  | Data Science(Analytics Vidya) | Learnt Predictive Modeling and the basics of Machine Learning | https://github.com/akashshuklacs/IntroductionToDataScience-AnalyticsVidya |
+| Day001 <br> 29/06/2018  | Hackathon Website | Worked on Hackathon website of hackathon organised by my club | https://clubrcubed.pythonanywhere.com |
 
