@@ -9,4 +9,5 @@ For more details: Head over to http://www.100daysofcode.com/
 | Day003 <br> 29/06/2018  | Hackathon Website | Worked on Hackathon website of hackathon organised by my club | https://clubrcubed.pythonanywhere.com |
 | Day004 <br> 30/06/2018  | SQL | Learnt SQL  | NA |
 | Day005 <br> 01/07/2018  | Data Science(Analytics Vidya) | Revision | https://github.com/akashshuklacs/IntroductionToDataScience-AnalyticsVidya |
+| Day006 <br> 02/07/2018  | InterviewBit | Solved Maths Problems on InterviewBit.com | https://github.com/akashshuklacs/InterviewBit |
 
