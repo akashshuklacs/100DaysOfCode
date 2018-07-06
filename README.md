@@ -11,4 +11,5 @@ For more details: Head over to http://www.100daysofcode.com/
 | Day005 <br> 01/07/2018  | Data Science(Analytics Vidya) | Revision | https://github.com/akashshuklacs/IntroductionToDataScience-AnalyticsVidya |
 | Day006 <br> 02/07/2018  | InterviewBit | Solved Maths Problems on InterviewBit.com | https://github.com/akashshuklacs/InterviewBit |
 | Day007 <br> 03/07/2018  | Data Science(Coursera) | Completed week 1 and week 2 of Intro to Data Science | NA |
-
+| Day008 <br> 04/07/2018  | InterviewBit | Solved Maths Problems on InterviewBit.com | https://github.com/akashshuklacs/InterviewBit |
+| Day009 <br> 05/07/2018  | InterviewBit | Solved Problems on InterviewBit.com | https://github.com/akashshuklacs/InterviewBit |
