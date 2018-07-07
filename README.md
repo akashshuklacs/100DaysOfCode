@@ -13,3 +13,4 @@ For more details: Head over to http://www.100daysofcode.com/
 | Day007 <br> 03/07/2018  | Data Science(Coursera) | Completed week 1 and week 2 of Intro to Data Science | NA |
 | Day008 <br> 04/07/2018  | InterviewBit | Solved Maths Problems on InterviewBit.com | https://github.com/akashshuklacs/InterviewBit |
 | Day009 <br> 05/07/2018  | InterviewBit | Solved Problems on InterviewBit.com | https://github.com/akashshuklacs/InterviewBit |
+| Day010 <br> 06/07/2018  | Codechef | Solved Problems of July long contest| NA |
