@@ -15,3 +15,4 @@ For more details: Head over to http://www.100daysofcode.com/
 | Day009 <br> 05/07/2018  | InterviewBit | Solved Problems on InterviewBit.com | https://github.com/akashshuklacs/InterviewBit |
 | Day010 <br> 06/07/2018  | Codechef | Solved Problems of July long contest| NA |
 | Day011 <br> 07/07/2018  | Data Science(Analytics Vidya) | Completed Course| https://github.com/akashshuklacs/IntroductionToDataScience-AnalyticsVidya |
+| Day012 <br> 08/07/2018  | Data Science | Learnt Some Machine Learning Algorithms| https://github.com/akashshuklacs/IntroductionToDataScience-AnalyticsVidya |
