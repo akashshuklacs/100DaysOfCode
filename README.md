@@ -18,3 +18,4 @@ For more details: Head over to http://www.100daysofcode.com/
 | Day012 <br> 08/07/2018  | Data Science | Learnt Some Machine Learning Algorithms| https://github.com/akashshuklacs/IntroductionToDataScience-AnalyticsVidya |
 | Day013 <br> 09/07/2018  | Blog | Worked on my blog!| https://akashshuklacs.github.io/blog |
 | Day014 <br> 10/07/2018  | InterviewBit | Solved Arrays Problems on interviewbit!| https://github.com/akashshuklacs/InterviewBit |
+| Day015 <br> 11/07/2018  | Algorithms | Studied algorithms| NA |
