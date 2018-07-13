@@ -19,3 +19,5 @@ For more details: Head over to http://www.100daysofcode.com/
 | Day013 <br> 09/07/2018  | Blog | Worked on my blog!| https://akashshuklacs.github.io/blog |
 | Day014 <br> 10/07/2018  | InterviewBit | Solved Arrays Problems on interviewbit!| https://github.com/akashshuklacs/InterviewBit |
 | Day015 <br> 11/07/2018  | Algorithms | Studied algorithms| NA |
+| Day016 <br> 12/07/2018  | Algorithms | Studied algorithms| NA |
+| Day017 <br> 13/07/2018  | Data Science Hackathon | Solved classification hackathon on analytics vidya| Private repo due to competition rules |
