@@ -22,3 +22,4 @@ For more details: Head over to http://www.100daysofcode.com/
 | Day016 <br> 12/07/2018  | Algorithms | Studied algorithms| NA |
 | Day017 <br> 13/07/2018  | Data Science Hackathon | Solved classification hackathon on analytics vidya| Private repo due to competition rules|
 | Day018 <br> 14/07/2018  | Data Science Hackathon | Solved regression hackathon on analytics vidya| Private repo due to competition rules|
+| Day019 <br> 15/07/2018  | Data Structures | Studied about hash tables and hash functions|
