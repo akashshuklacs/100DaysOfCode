@@ -24,4 +24,6 @@ For more details: Head over to http://www.100daysofcode.com/
 | Day018 <br> 14/07/2018  | Data Science Hackathon | Solved regression hackathon on analytics vidya| Private repo due to competition rules|
 | Day019 <br> 15/07/2018  | Data Structures | Studied about hash tables and hash functions| NA |
 | Day020 <br> 16/07/2018  | Miscellaneous | Played around with pygame and a lot of random things using python | Got rid of code because it was horrible |
-| Day021 <br> 17/07/2018  | Java | Revised Java for Internship | NA |
+| Day021 <br> 17/07/2018  | Java | Revised Java for Internship | N A|
+| Day022 <br> 18/07/2018  | Java | Revised Java for Internship | N A|
+| Day023 <br> 19/07/2018  | Java | Revised Java for Internship | N A|
