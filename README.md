@@ -28,3 +28,5 @@ For more details: Head over to http://www.100daysofcode.com/
 | Day022 <br> 18/07/2018  | Java | Revised Java for Internship | N A|
 | Day023 <br> 19/07/2018  | Java | Revised Java for Internship | N A|
 | Day024 <br> 20/07/2018  | Hackathon | ZS Hackathon | Private Repository |
+| Day025 <br> 21/07/2018  | Algorithms | Revised Algorithms | NA |
+| Day026 <br> 22/07/2018  | Algorithms | Revised Algorithms | NA |
