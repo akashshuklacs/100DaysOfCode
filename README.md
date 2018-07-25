@@ -30,3 +30,5 @@ For more details: Head over to http://www.100daysofcode.com/
 | Day024 <br> 20/07/2018  | Hackathon | ZS Hackathon | Private Repository |
 | Day025 <br> 21/07/2018  | Algorithms | Revised Algorithms | NA |
 | Day026 <br> 22/07/2018  | Algorithms | Revised Algorithms | NA |
+| Day027 <br> 23/07/2018  | Studied | Studied about various technologies for side project | NA |
+| Day028 <br> 24/07/2018  | NA | Travelled, failed to maintain streak | NA |
