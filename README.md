@@ -32,3 +32,5 @@ For more details: Head over to http://www.100daysofcode.com/
 | Day026 <br> 22/07/2018  | Algorithms | Revised Algorithms | NA |
 | Day027 <br> 23/07/2018  | Studied | Studied about various technologies for side project | NA |
 | Day028 <br> 24/07/2018  | NA | Travelled, failed to maintain streak | NA |
+| Day029 <br> 25/07/2018  | Nginx | Learnt about Nginx | NA |
+| Day030 <br> 26/07/2018  | Ionic | Learnt about Ionic | NA |
