@@ -35,3 +35,4 @@ For more details: Head over to http://www.100daysofcode.com/
 | Day029 <br> 25/07/2018  | Nginx | Learnt about Nginx | NA |
 | Day030 <br> 26/07/2018  | Ionic | Learnt about Ionic | NA |
 | Day031 <br> 27/07/2018  | Ionic | Learnt about Ionic | NA |
+| Day032 <br> 28/07/2018  | Ionic | Made a basic Ionic App | NA |
