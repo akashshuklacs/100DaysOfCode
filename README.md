@@ -38,4 +38,5 @@ For more details: Head over to http://www.100daysofcode.com/
 | Day032 <br> 28/07/2018  | Ionic | Made a basic Ionic App | NA |
 | Day033 <br> 29/07/2018  | Side Project | Worked on a side project | NA |
 | Day034 <br> 30/07/2018  | Ionic | Built a basic Ionic Pollution app | https://github.com/akashshuklacs/pollution-ionic |
+| Day035 <br> 31/07/2018  | Ionic | Built a basic Ionic Pollution app | https://github.com/akashshuklacs/pollution-ionic |
 
