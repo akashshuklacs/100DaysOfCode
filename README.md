@@ -39,4 +39,6 @@ For more details: Head over to http://www.100daysofcode.com/
 | Day033 <br> 29/07/2018  | Side Project | Worked on a side project | NA |
 | Day034 <br> 30/07/2018  | Ionic | Built a basic Ionic Pollution app | https://github.com/akashshuklacs/pollution-ionic |
 | Day035 <br> 31/07/2018  | Ionic | Built a basic Ionic Pollution app | https://github.com/akashshuklacs/pollution-ionic |
+| Day036 <br> 01/08/2018  | NA | Shifted room | NA |
+| Day037 <br> 02/08/2018  | Firebase | Researched on firebase and its usecases for my project | NA |
 
