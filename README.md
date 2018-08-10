@@ -44,5 +44,9 @@ For more details: Head over to http://www.100daysofcode.com/
 | Day038 <br> 03/08/2018  | Firebase | Researched on firebase and its usecases for my project | NA |
 | Day039 <br> 04/08/2018  | NA | Got Sick | NA |
 | Day040 <br> 05/08/2018  | Contest | Contest on Interviewbit | Code submitted to interviewbit platform |
+| Day041 <br> 06/08/2018  | Break | NA | NA |
+| Day042 <br> 07/08/2018  | Break | NA | NA |
+| Day043 <br> 08/08/2018  | Break | NA | NA |
+| Day044 <br> 09/08/2018  | Contest | Codevita | Submitted to Codevita Platform |
 
 
