@@ -48,5 +48,5 @@ For more details: Head over to http://www.100daysofcode.com/
 | Day042 <br> 07/08/2018  | Break | NA | NA |
 | Day043 <br> 08/08/2018  | Break | NA | NA |
 | Day044 <br> 09/08/2018  | Contest | Codevita | Submitted to Codevita Platform |
-
-
+| Day045 <br> 10/08/2018  | Break | NA | NA |
+| Day046 <br> 11/08/2018  | Data Structures | Studied Linked List | NA |
