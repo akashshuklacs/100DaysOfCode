@@ -50,3 +50,10 @@ For more details: Head over to http://www.100daysofcode.com/
 | Day044 <br> 09/08/2018  | Contest | Codevita | Submitted to Codevita Platform |
 | Day045 <br> 10/08/2018  | Break | NA | NA |
 | Day046 <br> 11/08/2018  | Data Structures | Studied Linked List | NA |
+| Day047 <br> 12/08/2018  | Interview Preparation | Studied for Interviews | NA |
+| Day048 <br> 13/08/2018  | Interview Preparation | Studied for Interviews | NA |
+| Day049 <br> 14/08/2018  | Interview Preparation | Studied for Interviews | NA |
+| Day050 <br> 15/08/2018  | Interview Preparation | Studied for Interviews | NA |
+| Day051 <br> 16/08/2018  | Interview Preparation | Studied for Interviews | NA |
+| Day052 <br> 17/08/2018  | Interview Preparation | Studied for Interviews | NA |
+| Day053 <br> 18/08/2018  | TCS Interview | TCS Interview | NA |
