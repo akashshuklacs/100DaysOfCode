@@ -51,7 +51,7 @@ For more details: Head over to http://www.100daysofcode.com/
 | Day045 <br> 10/08/2018  | Break | NA | NA |
 | Day046 <br> 11/08/2018  | Data Structures | Studied Linked List | NA |
 | Day047 <br> 12/08/2018  | Interview Preparation | Studied for Interviews | NA |
-| Day048 <br> 13/08/2018  | Interview Preparation | Studied for Interviews | NA |
+| Day048 <br> 13/08/2018  | Project Euler | Solved Project Euler Problems | https://github.com/akashshuklacs/project-euler |
 | Day049 <br> 14/08/2018  | Interview Preparation | Studied for Interviews | NA |
 | Day050 <br> 15/08/2018  | Interview Preparation | Studied for Interviews | NA |
 | Day051 <br> 16/08/2018  | Interview Preparation | Studied for Interviews | NA |
