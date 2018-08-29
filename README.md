@@ -57,3 +57,14 @@ For more details: Head over to http://www.100daysofcode.com/
 | Day051 <br> 16/08/2018  | Interview Preparation | Studied for Interviews | NA |
 | Day052 <br> 17/08/2018  | Interview Preparation | Studied for Interviews | NA |
 | Day053 <br> 18/08/2018  | TCS Interview | TCS Interview | NA |
+| Day054 <br> 19/08/2018  | Interview Preparation | Studied for Interviews | NA |
+| Day055 <br> 20/08/2018  | Interview Preparation | Studied for Interviews | NA |
+| Day056 <br> 21/08/2018  | Interview Preparation | Studied for Interviews | NA |
+| Day057 <br> 22/08/2018  | Interview Preparation | Studied for Interviews | NA |
+| Day058 <br> 23/08/2018  | Interview Preparation | Studied for Interviews | NA |
+| Day059 <br> 24/08/2018  | Interview Preparation | Studied for Interviews | NA |
+| Day060 <br> 25/08/2018  | Interview Preparation | Studied for Interviews | NA |
+| Day061 <br> 26/08/2018  | Interview Preparation | Studied for Interviews | NA |
+| Day062 <br> 27/08/2018  | Interview Preparation | Studied for Interviews | NA |
+| Day063 <br> 28/08/2018  | Ionic | Worked on Ionic app for Internship | NA |
+| Day064 <br> 29/08/2018  | Python | Learnt Basics of Python | NA |
