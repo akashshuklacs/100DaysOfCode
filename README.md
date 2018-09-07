@@ -67,4 +67,13 @@ For more details: Head over to http://www.100daysofcode.com/
 | Day061 <br> 26/08/2018  | Interview Preparation | Studied for Interviews | NA |
 | Day062 <br> 27/08/2018  | Interview Preparation | Studied for Interviews | NA |
 | Day063 <br> 28/08/2018  | Ionic | Worked on Ionic app for Internship | NA |
-| Day064 <br> 29/08/2018  | Python | Learnt Basics of Python | NA |
+| Day064 <br> 29/08/2018  | Break | NA | NA |
+| Day065 <br> 30/08/2018  | Break | NA | NA |
+| Day066 <br> 31/08/2018  | Break | NA | NA |
+| Day067 <br> 01/09/2018  | Break | NA | NA |
+| Day068 <br> 02/09/2018  | Break | NA | NA |
+| Day069 <br> 03/09/2018  | Break | NA | NA |
+| Day070 <br> 04/09/2018  | Break | NA | NA |
+| Day071 <br> 05/09/2018  | Break | NA | NA |
+| Day071 <br> 06/09/2018  | Project Euler | Soved Project Euler Problems | https://github.com/akashshuklacs/project-euler |
+
