@@ -75,5 +75,7 @@ For more details: Head over to http://www.100daysofcode.com/
 | Day069 <br> 03/09/2018  | Break | NA | NA |
 | Day070 <br> 04/09/2018  | Break | NA | NA |
 | Day071 <br> 05/09/2018  | Break | NA | NA |
-| Day071 <br> 06/09/2018  | Project Euler | Soved Project Euler Problems | https://github.com/akashshuklacs/project-euler |
-
+| Day072 <br> 06/09/2018  | Project Euler | Solved Project Euler Problems | https://github.com/akashshuklacs/project-euler |
+| Day073 <br> 07/09/2018  | Personal Project | Worked on Ionic Authentication | Private Repo |
+| Day074 <br> 08/09/2018  | Break | NA | NA |
+| Day075 <br> 09/09/2018  | Data Structures | Solved Linked List problems | NA |
