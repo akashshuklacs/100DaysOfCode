@@ -79,3 +79,5 @@ For more details: Head over to http://www.100daysofcode.com/
 | Day073 <br> 07/09/2018  | Personal Project | Worked on Ionic Authentication | Private Repo |
 | Day074 <br> 08/09/2018  | Break | NA | NA |
 | Day075 <br> 09/09/2018  | Data Structures | Solved Linked List problems | NA |
+| Day076 <br> 10/09/2018  | Exams | Exams | NA |
+| Day077 <br> 11/09/2018  | Exams | Exams | NA |
